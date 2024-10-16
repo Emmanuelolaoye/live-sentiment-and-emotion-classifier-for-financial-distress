@@ -1,0 +1,8 @@
+2D CNN of entire MFCC with Data Augmentation - 73.15%
+2D CNN of entire MFCC without Data Augmentation - 77.25%
+
+2D CNN of entire Log-melspectogram with augmentation - 70.08%
+2D CNN of entire Log-melspectogram without augmentation - 71.94%
+
+
+--- 0.21342182159423828 seconds ---
