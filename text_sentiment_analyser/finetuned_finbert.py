@@ -2,7 +2,7 @@
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 
-token = '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'
+token = '' # access token deleted and rotated
 
 
 class FineTunedFinBertSentimentAnalyser:
